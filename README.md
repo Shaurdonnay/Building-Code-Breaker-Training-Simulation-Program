@@ -44,9 +44,3 @@ Compile the code using a C++ compiler. For example:
 ```bash
 g++ code_breaker_simulator.cpp -o code_breaker_simulator
 
-Requirements
-C++ compiler (e.g., g++)
-Terminal or command prompt
-
-Note
-The code includes preprocessor directives to handle system-specific functionalities and delay using the usleep function. Depending on the system you are using, you may need to adjust these parts of the code.
